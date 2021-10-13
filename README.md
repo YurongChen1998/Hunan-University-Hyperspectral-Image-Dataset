@@ -6,4 +6,4 @@ With the effort of researchers and developers, there are [some public hyperspect
 However, we note that the pharmaceutical hyperspectral imaging dataset is absent. Hyperspectral data can provide significant information of medicinal products.
 Here, we public a hyperspectral imaging dataset for vaccine anomaly detection task.
 
-![alt text](http://url/to/img.png)
+![HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset/blob/main/main-fig.png)
