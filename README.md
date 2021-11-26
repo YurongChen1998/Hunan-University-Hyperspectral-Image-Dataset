@@ -14,7 +14,6 @@ Download links: [Google Diver](https://drive.google.com/drive/folders/1YFuZqc0Kp
 Description: The whole dataset consists of seven different hyperspectral images (case 1 - case 7). Each .mat file includes the hyperspectral data and its pixel-level label.\
 Data Loader Demo: [Pytorch Code](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset/blob/main/data_load.py). 
 
-Contributor: ATing Yin; Yurong Chen; Bingrui Zhao; Xuesan Su. \
 National Engineering Laboratory for Robot Vision Perception and Control, Hunan University
 
 
