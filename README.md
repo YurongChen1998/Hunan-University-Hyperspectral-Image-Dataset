@@ -1,4 +1,4 @@
-# 1. HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset
+# 1. HVAD-Hyperspectral-Vaccine-Anomaly-Detection Dataset
 
 Hyperspectral imaging takes a key part of machine vision. It has been widely used in various applications, such as remote sensing, biotechnology, food inspection.
 With the effort of researchers and developers, there are [some public hyperspectral datasets](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes).
