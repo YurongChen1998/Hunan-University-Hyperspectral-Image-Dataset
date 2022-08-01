@@ -1,4 +1,4 @@
-# HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset
+# 1. HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset
 
 Hyperspectral imaging takes a key part of machine vision. It has been widely used in various applications, such as remote sensing, biotechnology, food inspection.
 With the effort of researchers and developers, there are [some public hyperspectral datasets](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes).
@@ -8,13 +8,13 @@ Here, we public a hyperspectral imaging dataset for vaccine anomaly detection ta
 
 ![HVAD](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset/blob/main/main-fig.png)
 
----
-
 Download links: [Google Diver](https://drive.google.com/drive/folders/1YFuZqc0KpYOacBSHrWwbG3I8c_PUUVSu?usp=sharing).\
 Description: The whole dataset consists of seven different hyperspectral images (case 1 - case 7). Each .mat file includes the hyperspectral data and its pixel-level label.\
 Data Loader Demo: [Pytorch Code](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset/blob/main/data_load.py). 
 
 National Engineering Laboratory for Robot Vision Perception and Control, Hunan University
+
+---
 
 
 
